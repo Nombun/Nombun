@@ -1,9 +1,9 @@
 # Hi there! 👋
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hmdkpnnikh&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nombun&theme=github_dark)
 
 <div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmdkpnnikh&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=hmdkpnnikh&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nombun&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Nombun&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
 
 ## I have Learned  
@@ -37,7 +37,7 @@
 ![](https://img.shields.io/badge/RAM-4GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/intel-hd_610-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
 <!---
-hmdkpnnikh/hmdkpnnikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nombun/Nombun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
